@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="advice_heavy">少吃点吧</string>
+    <string name="advice_light">多吃点啊</string>
+    <string name="advice_average">还不错</string>
+    <string name="bmi_result">BMI值</string>
+    <string name="about_title">关于BMI</string>
+    <string name="about_msg">一个简单的计算BMI的程序</string>
+    
+    <string name="OK_label">确认</string>
+    <string name="homepage_label">首页</string>
+    <string name="homepage_uri">http://www.baidu.com</string>
+
+</resources>
